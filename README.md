@@ -7,8 +7,11 @@ Siga os passos abaixo para a execução correta do programa.
 2 - Crie uma pasta com o nome de Relatorios dentro da pasta Calculadora.
 
 Tecnologias Utilizadas:
-  ° Linguagem de programação: Python
-  ° Pacote Datetime
-  ° Manipulação de arquivos txt
+
+° Linguagem de programação: Python
+
+° Pacote Datetime
+
+° Manipulação de arquivos txt
 
 Sj.
