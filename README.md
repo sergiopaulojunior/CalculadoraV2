@@ -8,7 +8,7 @@ Siga os passos abaixo para a execução correta do programa.
 
 Tecnologias Utilizadas:
 
-° Linguagem de programação: Python
+° Linguagem de programação: Python (funções, condicionais if/else, validação de dados)
 
 ° Pacote Datetime
 
